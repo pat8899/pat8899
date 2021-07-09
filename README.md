@@ -5,14 +5,6 @@ I have a background in business management, finance and Human Resources, but fol
 
 
 </br>
-<b>TECHNICAL SKILLS</b>
-</br>
-</br>
-<b>WEB TECHNOLOGIES:</b>       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br></br>
-<b>DATABASE:</b>               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br></br>
-<b>BUSINESS INTELLIGENCE:</b>  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br></br>
-<b>BUSINESS:</b>               Business Management, Human Resources, Finance & Accounting </br></br>
-<b>OTHERS:</b>                 BPMN, Salesforce Admin (Trailhead Platform), Agile </br></br>
 
 </br>
 🥰 I love food, travel, racket sports and art
@@ -24,6 +16,18 @@ You can find me on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/duangruethai-pat-pornthanes-55855991/
-
+</br>
 </br>
 <b>Sawatdee Ka</b> 🙏
+</br>
+</br>
+
+<h3 style="background-color:DodgerBlue;">TECHNICAL SKILLS</h3>
+</br>
+</br>
+<b>WEB TECHNOLOGIES:</b>       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br></br>
+<b>DATABASE:</b>               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br></br>
+<b>BUSINESS INTELLIGENCE:</b>  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br></br>
+<b>BUSINESS:</b>               Business Management, Human Resources, Finance & Accounting </br></br>
+<b>OTHERS:</b>                 BPMN, Salesforce Admin (Trailhead Platform), Agile </br></br>
+
