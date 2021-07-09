@@ -7,11 +7,11 @@ I have a background in business management, finance and Human Resources, but fol
 </br>
 <b>TECHNICAL SKILLS</b>
 
-WEB TECHNOLOGIES:       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br>
-DATABASE:               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br>
-BUSINESS INTELLIGENCE:  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br>
-BUSINESS:               Business Management, Human Resources, Finance & Accounting </br>
-OTHERS:                 BPMN, Salesforce Admin (Trailhead Platform), Agile </br>
+<b>WEB TECHNOLOGIES:</b>       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br></br>
+<b>DATABASE:</b>               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br></br>
+<b>BUSINESS INTELLIGENCE:</b>  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br></br>
+<b>BUSINESS:</b>               Business Management, Human Resources, Finance & Accounting </br></br>
+<b>OTHERS:</b>                 BPMN, Salesforce Admin (Trailhead Platform), Agile </br></br>
 
 </br>
 🥰 I love food, travel, racket sports and art
