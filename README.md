@@ -20,7 +20,6 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <h3 style="border:2px solid DodgerBlue;">TECHNICAL SKILLS</h3>
 </br>
-</br>
 <b>WEB TECHNOLOGIES:</b>       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br></br>
 <b>DATABASE:</b>               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br></br>
 <b>BUSINESS INTELLIGENCE:</b>  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br></br>
