@@ -5,8 +5,6 @@ I have a background in business management, finance and Human Resources, but fol
 
 
 </br>
-
-</br>
 🥰 I love food, travel, racket sports and art
 
 
@@ -16,9 +14,6 @@ You can find me on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/duangruethai-pat-pornthanes-55855991/
-</br>
-</br>
-<b>Sawatdee Ka</b> 🙏
 </br>
 </br>
 
@@ -32,3 +27,6 @@ You can find me on [![LinkedIn][2.2]][2].
 <b>BUSINESS:</b>               Business Management, Human Resources, Finance & Accounting </br></br>
 <b>OTHERS:</b>                 BPMN, Salesforce Admin (Trailhead Platform), Agile </br></br>
 
+</br>
+</br>
+<b>Sawatdee Ka</b> 🙏
