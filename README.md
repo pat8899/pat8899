@@ -22,7 +22,8 @@ You can find me on [![LinkedIn][2.2]][2].
 </br>
 </br>
 
-<h3 style="background-color:DodgerBlue;">TECHNICAL SKILLS</h3>
+
+<h3 style="border:2px solid DodgerBlue;">TECHNICAL SKILLS</h3>
 </br>
 </br>
 <b>WEB TECHNOLOGIES:</b>       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br></br>
