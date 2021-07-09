@@ -3,7 +3,7 @@
 I am a passionate and creative front end react developer and BI originally from Bangkok Thailand but now living in New Zealand
 I have a background in business management, finance and Human Resources, but following my new career path in software development is what excites me and I can’t wait to start using my new coding skills to solve real world problems.
 
-</br>
+
 </br>
 <b>TECHNICAL SKILLS</b>
 
@@ -13,7 +13,7 @@ BUSINESS INTELLIGENCE:  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br>
 BUSINESS:               Business Management, Human Resources, Finance & Accounting </br>
 OTHERS:                 BPMN, Salesforce Admin (Trailhead Platform), Agile </br>
 
-
+</br>
 🥰 I love food, travel, racket sports and art
 
 
@@ -24,4 +24,5 @@ You can find me on [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/duangruethai-pat-pornthanes-55855991/
 
+</br>
 Sawatdee Ka 🙏
