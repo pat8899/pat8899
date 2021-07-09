@@ -5,7 +5,7 @@ I have a background in business management, finance and Human Resources, but fol
 
 
 </br>
-<b>TECHNICAL SKILLS</b>
+<b>TECHNICAL SKILLS</b></br>
 
 <b>WEB TECHNOLOGIES:</b>       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br></br>
 <b>DATABASE:</b>               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br></br>
@@ -25,4 +25,4 @@ You can find me on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/duangruethai-pat-pornthanes-55855991/
 
 </br>
-Sawatdee Ka 🙏
+<b>Sawatdee Ka</b> 🙏
