@@ -5,8 +5,9 @@ I have a background in business management, finance and Human Resources, but fol
 
 
 </br>
-<b>TECHNICAL SKILLS</b></br>
-
+<b>TECHNICAL SKILLS</b>
+</br>
+</br>
 <b>WEB TECHNOLOGIES:</b>       JavaScript/CSS/HTML, React, GitHub, Docker, Figma, WordPress </br></br>
 <b>DATABASE:</b>               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br></br>
 <b>BUSINESS INTELLIGENCE:</b>  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br></br>
