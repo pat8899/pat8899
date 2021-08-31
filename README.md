@@ -3,7 +3,7 @@
 I am a passionate and creative React developer.</br>
 •	A reliable, honest, hardworking, and professional individual who is results focused and is willing to go the extra mile</br>
 •	Comfortable working both autonomously and as part of a team</br>
-•	Shows grit, determination and ingenuity when confronted by obstacles</br>
+•	Shows grit, determination and ingenuity when confronted by obstacles</br></br>
 Beyond my programming skills, I also have experience in business management and analysis which has helped me to understand, not only how to work as a developer, but the needs from a business perspective. 
 
 
