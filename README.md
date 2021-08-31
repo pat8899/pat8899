@@ -1,7 +1,10 @@
 ### Hi my name is Pat😊
 
-I am a passionate and creative front end react developer and BI originally from Bangkok Thailand but now living in New Zealand
-I have a background in business management, finance and Human Resources, but following my new career path in software development is what excites me and I can’t wait to start using my new coding skills to solve real world problems.
+I am a passionate and creative React developer.
+•	A reliable, honest, hardworking, and professional individual who is results focused and is willing to go the extra mile
+•	Comfortable working both autonomously and as part of a team
+•	Shows grit, determination and ingenuity when confronted by obstacles
+Beyond my programming skills, I also have experience in business management and analysis which has helped me to understand, not only how to work as a developer, but the needs from a business perspective. 
 
 
 </br>
