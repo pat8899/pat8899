@@ -1,10 +1,12 @@
 ### Hi my name is Pat😊
 
-I am a passionate and creative React developer.</br>
+I am a professional who is enthusiastic about software development, business intelligence and has strong business acumen.</br>
 •	A reliable, honest, hardworking, and professional individual who is results focused and is willing to go the extra mile</br>
 •	Comfortable working both autonomously and as part of a team</br>
 •	Shows grit, determination and ingenuity when confronted by obstacles</br></br>
-Beyond my programming skills, I also have experience in business management and analysis which has helped me to understand, not only how to work as a developer, but the needs from a business perspective. 
+Beyond my programming skills, I also have experience in business management and analysis which has helped me to understand, not only how to work as a developer, but the needs from a business perspective. </br></br>
+
+My intellectual curiosity drives me to be a lifelong learner who loves knowledge sharing and the development of both myself and others.
 
 
 </br>
