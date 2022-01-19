@@ -1,6 +1,6 @@
 ### Hi my name is Pat😊
 
-I am a professional who is enthusiastic about <b>software development & technology</b>, has <b>strong business acumen</b> and am very good at <b>people</b> with skills in <b>HTML, CSS, JavaScript, React</b> and exposure to <b>Salesforce admin, AWS cloud and AI technologies and Python</b>.
+I am a professional who is enthusiastic about <b>software development & technology</b>, has <b>strong business acumen</b> and am very good with <b>people</b> with skills in <b>HTML, CSS, JavaScript, React</b> and exposure to <b>Salesforce admin, AWS cloud and AI technologies and Python</b>.
 </br>
 •	A reliable, honest, hardworking, and professional individual who is results focused and is willing to go the extra mile</br>
 •	Comfortable working both autonomously and as part of a team</br>
