@@ -1,6 +1,7 @@
 ### Hi my name is Pat😊
 
-I am a professional who is enthusiastic about software development, business intelligence and has strong business acumen.</br>
+I am a professional who is enthusiastic about <b>software development & technology</b>, has <b>strong business acumen</b> and am very good at <b>people</b> with skills in <b>HTML, CSS, JavaScript, React</b> and exposure to <b>Salesforce admin, AWS cloud and AI technologies and Python</b>.
+</br>
 •	A reliable, honest, hardworking, and professional individual who is results focused and is willing to go the extra mile</br>
 •	Comfortable working both autonomously and as part of a team</br>
 •	Shows grit, determination and ingenuity when confronted by obstacles</br></br>
@@ -10,7 +11,7 @@ My intellectual curiosity drives me to be a lifelong learner who loves knowledge
 
 
 </br>
-🥰 I love food, travel, racket sports and art
+🥰 I love art & design, food, travel and racket sports.
 
 
 You can find me on [![LinkedIn][2.2]][2].
