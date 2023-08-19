@@ -30,7 +30,7 @@ You can find me on [![LinkedIn][2.2]][2].
 <b>DATABASE:</b>               My SQL, Microsoft SQL Server, SQL Query, MongoDB </br></br>
 <b>BUSINESS INTELLIGENCE:</b>  Power BI, SSMS, SSIS, SSAS, SSRS, MS Excel, SPSS </br></br>
 <b>BUSINESS:</b>               Business Management, Human Resources, Finance & Accounting </br></br>
-<b>OTHERS:</b>                 BPMN, Salesforce Admin (Trailhead Platform), Agile </br></br>
+<b>OTHERS:</b>                 BPMN, 3X Salesforce Certified, IC Agile </br></br>
 
 </br>
 </br>
