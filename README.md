@@ -1,6 +1,6 @@
 ### Hi my name is Pat😊
 
-I am a professional who is enthusiastic about <b>Salesforce development & technology</b>, has <b>strong business acumen</b> and <b>people skills</b></b>.
+I am a professional who is enthusiastic about <b>Salesforce development</b>, has <b>strong business acumen</b> and <b>people skills</b></b>.
 </br></br>
 
 My intellectual curiosity drives me to be a lifelong learner who loves knowledge sharing and the development of both myself and others.
