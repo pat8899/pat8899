@@ -18,4 +18,4 @@ You can find me on [![LinkedIn][2.2]][2].
 
 </br>
 </br>
-<b>Sawatdee Ka</b> 🙏
+<b>Sawatdee Ka</b>   🙏
